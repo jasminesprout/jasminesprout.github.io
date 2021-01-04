@@ -125,3 +125,8 @@ body {
 	margin-top: -15px;
 	padding-left: 150px;
 }
+
+.button__block:hover {
+	transition: linear 0.2s;
+	color: #6CF5EB;
+}
