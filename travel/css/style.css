@@ -105,11 +105,16 @@ body {
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	background: #80b7b3;
 	box-shadow: 0 0 30px #80b7b3;
-	width: 200px;
-	height: 45px;
 	border-radius: 50px;
 	margin-top: 40px;
 	margin-left: 958px;
+	width: 200px;
+	height: 45px;
+}
+
+.button__block > a {
+	width: 200px;
+	height: 45px;
 }
 
 .button__block > a > p {
@@ -128,5 +133,6 @@ body {
 
 .button__block:hover {
 	transition: linear 0.2s;
-	color: #6CF5EB;
+	background-color: #4ABFC6;
+	box-shadow: 0 0 30px #4ABFC6;
 }
