@@ -174,7 +174,7 @@ input[type=text]:hover {
   filter: drop-shadow(-10px 10px 25px rgba(0, 0, 0, 0.5)); }
 
 input[type=image] {
-  background-image: url(/img/search.png) no-repeat 0 0; }
+  background-image: url(../img/search.png) no-repeat 0 0; }
 
 .button__block a {
   display: inline-block;
@@ -186,7 +186,7 @@ input[type=image] {
   left: 42.5%; }
 
 .button__block a::before {
-  background-image: url(/img/search.png); }
+  background-image: url(../img/search.png); }
 
 .button {
   margin: 84px 0 0 970px;
@@ -247,7 +247,7 @@ input[type=image] {
 .box__1 {
   width: 400px;
   height: 400px;
-  background: url("/img/girl.jpg");
+  background: url("../img/girl.jpg");
   border: 10px solid #FCF6F5;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -256,7 +256,7 @@ input[type=image] {
 .box__2 {
   width: 400px;
   height: 400px;
-  background: url("/img/girl.jpg");
+  background: url("../img/girl.jpg");
   border: 10px solid #FCF6F5;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -265,7 +265,7 @@ input[type=image] {
 .box__3 {
   width: 400px;
   height: 400px;
-  background: url("/img/girl.jpg");
+  background: url("../img/girl.jpg");
   border: 10px solid #FCF6F5;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -275,7 +275,7 @@ input[type=image] {
 .box__4 {
   width: 400px;
   height: 400px;
-  background: url("/img/girl.jpg");
+  background: url("../img/girl.jpg");
   border: 10px solid #FCF6F5;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
